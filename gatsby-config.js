@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `MDX Documentation Site`,
-    description: `A documentation site that uses MDX pages for content.`,
-    author: `John D'Oriocourt`,
+    title: `Pathfinder Ref`,
+    description: `For Pathfinder game.`,
+    author: `Zheta`,
     image: `src/images/gatsby-icon.png`,
     lang: `en`,
   },
